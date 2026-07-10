@@ -215,31 +215,7 @@ Iris-Exploratory-Data-Analysis/
 
 ---
 
-# 📷 Visualizations
 
-## Scatter Plot
-
-<img src="images/scatter_plot.png" width="600">
-
----
-
-## Histogram
-
-<img src="images/histogram.png" width="600">
-
----
-
-## Box Plot
-
-<img src="images/boxplot.png" width="600">
-
----
-
-## Pair Plot
-
-<img src="images/pairplot.png" width="600">
-
----
 
 # 💻 Installation
 
